@@ -1,88 +1,70 @@
-#  important 👇 for you
+### WhatsApp Ragnarok Bot By `SuzzyTech`  
+A powerful and versatile multi-device WhatsApp bot with advanced features!  
 
-<div align="center">
-<a href="https://youtube.com/@suzzytech/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+SUZZY+TECH" alt="Typing SVG" /></a>
-  
-# YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@suzzytech)
+---
 
-# contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/2348132342960?text=Hi!! `Suzzy Tech` Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029VaxAqLoBadmUFAS5fa23)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
-  
-<div align="center">
-   
-<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+### Bot Features  
+1. 🚀 Bug menu (Full crash)  
+2. 🕶 Auto status views  
+3. 📖 Auto read chat  
+4. ✍️ Auto bio (about)  
+5. 🎥 Auto recording & typing  
+6. ⚡ Always online  
+7. 🛡️ Full antiban on Heroku  
+8. ⛔ Auto block  
+9. 🔓 Public/Private mode  
 
-</div>
+---
 
-## _Note: Use a VPN according to the server you choose if the session logs out automatically._
-<br>
+## Contact the Owner
 
-<div align="center">
+[**Click Here To Contact The Owner**](https://whatsapp.com/channel/0029VaxAqLoBadmUFAS5fa23) 
+ 
 
-## Deploy to Heroku ↓
+---
 
-<a href="https://github.com/SuzzyTech/raganork-md/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<a href="https://raganork-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
+## SCAN NOW  
 
-## Deploy to Koyeb ↓
+[**➡️ Click Here to Scan QR Code**](https://raganork.online)  
+</div>  
 
-<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<div>
-  <br>
+---
 
+### Deploy to Heroku  
+1. 🌟 **Star** this repository. [Sign Up](https://github.com/join) if you don’t have a GitHub account.  
+2. 📥 **Fork this repository**: [Click Here](https://github.com/SuzzyTech/raganork-md/fork).  
+3. 🔗 **[SCAN QR Code](https://raganork.online)**  
+   Pair the bot through the **"WhatsApp Linked Devices"** option in your WhatsApp app.  
+ 
 
-## Deploy to Railway ↓
-#### (No setvar command, must set vars manually from settings)
-<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
-  <div>
-<br>
-<div>
-  <br>
+---
 
-## Deploy in VPS [linux] ↓
-<div align="left">
-
+### Heroku Buildpacks  
+ ```bash
+heroku/nodejs
 ```
-1. Install nodejs, git, ffmpeg
-2. npm i -g yarn pm2
-3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
-4. yarn install --ignore-engines --network-concurrency 1
-5. vi config.env
-6. Enter your session there in format 'SESSION=your_session_here'
-7. Press ctrl+c, then type ':wq' and press enter
-8. npm start
-
-Now the bot will start working
+```bash
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```bash
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
+---
+
+## Important  
+
 <div align="center">
+<a href="https://youtube.com/@suzzytech/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=008000&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+Suzzy+Tech" alt="Typing SVG" /></a>  
 
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+### YouTube Channel Link  
+[**More Hacks & Tutorials**](https://youtube.com/@suzzytech)  
 
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+---
 
-<div align="left">
 
-# Note
 
-I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
-
-# Legal
-
--   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
--   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
--   This is an independent and unofficial software Use at your own risk.
+### Legal Disclaimer  
+- This code is not affiliated with WhatsApp or its affiliates. Use at your own risk.  
+- WhatsApp, the WhatsApp logo, and related elements are trademarks of their respective owners.  
+ 
